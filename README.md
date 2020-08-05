@@ -1,2 +1,2 @@
 # nalinifirstrepo
-This repo is dummy repo for testing purpose
+dummy repo for testing purpose
